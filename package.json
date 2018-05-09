@@ -8,7 +8,9 @@
     "react": "^16.2.0",
     "react-bootstrap": "^0.32.1",
     "react-dom": "^16.2.0",
-    "react-scripts": "1.1.1"
+    "react-scripts": "1.1.1",
+    "tone": "^0.12.80",
+    "web-audio-daw": "^3.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
