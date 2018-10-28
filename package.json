@@ -4,11 +4,11 @@
   "private": true,
   "homepage": "https://nosma.github.io/website/",
   "dependencies": {
-    "gh-pages": "^1.1.0",
-    "react": "^16.2.0",
-    "react-bootstrap": "^0.32.1",
-    "react-dom": "^16.2.0",
-    "react-scripts": "1.1.1"
+    "gh-pages": "^1.2.0",
+    "react": "^16.6.0",
+    "react-bootstrap": "^0.32.4",
+    "react-dom": "^16.6.0",
+    "react-scripts": "^2.0.5"
   },
   "scripts": {
     "start": "react-scripts start",
